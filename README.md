@@ -1,8 +1,17 @@
-# Curso IOT ¿Avanzado? 
+# Curso IOT Avanzado
 
 Aprender a desarrollar proyectos IOT basados en protocolos estándar como MQTT utilizando herramientas modernas como Node-Red y lenguajes actuales como Python
 
-## Tecnologías
+En este curso aprenderemos a montar un sistema IoT utilizando un sistema Raspberry PI como servidor y placas ESP32 para los nodos. Es decir, usaremos hardware económico y fácil de conseguir y software Open Source.
+
+Comenzaremos instalando el sistema operativo y haciendo las primeras configuraciones. Aprenderemos sobre sensores, actuadores, conexiones y todo lo que tiene que ver con el hardware de IoT y veremos cómo podemos usar Python como lenguaje de programación para poder controlar nuestro hardware.
+
+Conectaremos los sistemas remotos usando el protocolo MQTT, el más utilizado en IoT para posteriormente utilizar la herramienta Node Red, una plataforma de programación basada en Javascript, pensada originalmente para sistemas IoT.
+
+Finalmente, veremos cómo podemos guardar la información obtenida por nuestros sensores en una base de datos de series de tiempo y aprenderemos a crear un tablero de visualización de datos.
+
+
+Aprenderemos sobre las diferentes tecnologías:
 
 * IOT
 * MQTT
@@ -12,15 +21,22 @@ Aprender a desarrollar proyectos IOT basados en protocolos estándar como MQTT u
 
 ## Equipos
 
-* Raspberry
-* ESP32
-* Sensores de kits de arduino/raspberry
+Para implementar el sistema usaremos el siguiente hardware:
+
+* Raspberry Pi, que actuará como servidor
+* ESP32 para implementar los nodos, por su bajo coste y disponibilidad
+* Sensores de kits de Arduino/Raspberry Pi, son compatibles con ESP32
+
 
 ## Programación
 
-* Python / micropython
-* Visual Studio Code
-* node-red
+Para la programación utilizaremos:
+
+* Python en Raspberry Pi
+* micropython en ESP32
+* Visual Studio Code: como entorno de programación
+* Node-red: nos permite implementar flujos de trabajo entre los datos y distintos componentes del sistema.
+
 
 
 ## Objetivos
@@ -34,7 +50,8 @@ Aprender a desarrollar proyectos IOT basados en protocolos estándar como MQTT u
 
 * Conceptos de IOT
 * Programación de microcontroladores con python/micropython
-* Protocolos de comunicaciones MQTT. Instalación de clientes/servidores
+* Protocolos de comunicaciones MQTT
+* Instalación de clientes/servidores
 * Plataformas de datos en la nube
 * Proyectos IOT
 
