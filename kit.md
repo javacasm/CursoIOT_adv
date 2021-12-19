@@ -18,4 +18,4 @@ Para sus mediciones necesitamos una medida de la temperatura
 ### ¿Lora?
 
 
-[¿Lora gateway?](https://www.amazon.es/Waveshare-Multi-Level-Configuration-Fixed-Point-Transmission/dp/B07VQZ5ZXY/ref=pd_sbs_1/261-3236229-9801150)
+[¿Lora gateway?](https://www.amazon.es/Waveshare-Multi-Level-Configuration-Fixed-Point-Transmission/dp/B07VQZ5ZXY/ref=pd_sbs_1/261-3236229-9801150d)
