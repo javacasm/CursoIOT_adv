@@ -1,4 +1,4 @@
-## Python, MQTT, influshDB y grafana
+## Python, MQTT, influxDB y Grafana
 
 https://prometec.us19.list-manage.com/track/click?u=744c00c8e823a62b0a2461541&id=0fcb2285d3&e=f61c2403c2
 
@@ -11,13 +11,6 @@ https://prometec.us19.list-manage.com/track/click?u=744c00c8e823a62b0a2461541&id
 [Otro canal](https://www.youtube.com/channel/UC2zp7AWsYhZaGmYTjP8hZ7A/featured)
 
 [Otro más](https://www.youtube.com/c/biblioman09)
-
-
-
-
-
-
-
 
 
 ## Hardware
