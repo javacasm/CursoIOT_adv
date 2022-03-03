@@ -1,5 +1,15 @@
 # Curso IOT Avanzado
 
+## CEP Priego-Montilla
+
+![](./images/Licencia_CC_peque.png)
+
+Licencia CC by SA @javacasm
+
+Marzo 2022
+
+## [https://bit.ly/IOTadv](https://bit.ly/IOTadv)
+
 Aprender a desarrollar proyectos IOT basados en protocolos estándar como MQTT utilizando herramientas modernas como Node-Red y lenguajes actuales como Python
 
 En este curso aprenderemos a montar un sistema IoT utilizando un sistema Raspberry PI como servidor y placas ESP32 para los nodos. Es decir, usaremos hardware económico y fácil de conseguir y software Open Source.
@@ -34,16 +44,15 @@ Para la programación utilizaremos:
 
 * Python en Raspberry Pi
 * micropython en ESP32
-* Visual Studio Code: como entorno de programación
+* Thonny / Visual Studio Code: como entorno de programación
 * Node-red: nos permite implementar flujos de trabajo entre los datos y distintos componentes del sistema.
-
 
 
 ## Objetivos
 
 * Aprender a desarrollar proyectos IOT 
 * Uso de protocolos estándar como MQTT
-* Utilizar herramientas modernas como Node-Red 
+* Utilizar herramientas de programación de flujos como Node-Red 
 * Programación con lenguajes actuales y productivos como Python
 
 ## Contenidos
