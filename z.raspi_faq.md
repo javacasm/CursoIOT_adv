@@ -64,3 +64,8 @@ chmod u+x ~/PrusaSlicer-version_2.4.1-aarch64.AppImage
 ## Configuración de MQTT 
 
 Configuración para acceso desde fuera
+
+## Fritzing
+
+sudo apt install fritzing
+
