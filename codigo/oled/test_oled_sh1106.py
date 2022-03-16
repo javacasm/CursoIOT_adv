@@ -24,6 +24,9 @@ display = sh1106.SH1106_SPI(oled_width, oled_height,
                             machine.Pin(CS_PIN))
 display.sleep(False)
 
+PIN_DHT = 27
+dht22 = dht.DHT22(machine.Pin(PIN_DHT))
+
 def test():
     display.fill(0) # Rellenamos de negro
     display.text('Testing 1', 0, 0, 1)
@@ -35,8 +38,7 @@ def getLocalTimeHumanFormat():
 
 
 def showSensorData():
-    PIN_DHT = 15
-    dht22 = dht.DHT22(machine.Pin(PIN_DHT))
+
     while True:
         try:
             dht22.measure()
