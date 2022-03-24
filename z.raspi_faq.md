@@ -69,3 +69,27 @@ Configuración para acceso desde fuera
 
 sudo apt install fritzing
 
+
+## Configuración pantalla
+
+[configuración](https://pimylifeup.com/raspberry-pi-screen-resolution/#:~:text=With%20the%20tool%20loaded%20on,set%20for%20this%20current%20display.)
+
+## Memoria libre
+
+```sh
+free -h
+```
+
+[documentación](https://forums.raspberrypi.com/viewtopic.php?t=269405)
+
+### DDNS
+
+https://www.noip.com/es-MX/remote-access
+
+## ssh
+
+[Activación de ssh desde la tarjeta](https://howchoo.com/g/ote0ywmzywj/how-to-enable-ssh-on-raspbian-without-a-screen)
+
+## wifi
+
+[configuración de wifi desde tarjeta](https://howchoo.com/g/ndy1zte2yjn/how-to-set-up-wifi-on-your-raspberry-pi-without-ethernet)
