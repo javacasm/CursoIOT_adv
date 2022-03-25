@@ -41,20 +41,20 @@ pandoc --pdf-engine=xelatex   \
 	pandoc --pdf-engine=xelatex       \
 		-V papersize:a4paper        \
 		--template=./LaTeX_ES.latex \
-		--reference-doc=plantilla.docx \		
+		--reference-doc=plantilla.docx \
 		-o $(S2) \
 		Cabecera.md  \
-		2.2.IOT.md\
-		2.4.0.MQTT.md\
-		2.4.1.mosquitto.md\
-		2.4.2.Broquer_mqtt_externos.md\
+		2.2.IOT.md \
+		2.4.0.MQTT.md \
+		2.4.1.mosquitto.md \
+		2.4.2.Broquer_mqtt_externos.md \
 		2.4.3.Herramientas.md
 		
 3:
 	pandoc --pdf-engine=xelatex       \
 		-V papersize:a4paper        \
 		--template=./LaTeX_ES.latex \
-		--reference-doc=plantilla.docx \		
+		--reference-doc=plantilla.docx \
 		-o $(S3) \
 		Cabecera.md        \
 		Cabecera_latex.md \
@@ -64,10 +64,6 @@ pandoc --pdf-engine=xelatex   \
 		3.1.1.MQTT_python.md \
 		3.1.2.MQTT_sensores.md \
 		3.2.0.micropython.md \
-		3.2.10.I2C.md \
-		3.2.11.BME280.md \
-		3.2.12.Oled.md \
-		3.2.13.P.CO2.local.md \
 		3.2.2.Instalacion_micropython.md \
 		3.2.3.Uso_thonny.md \
 		3.2.4.EntradaSalida.md \
@@ -76,7 +72,11 @@ pandoc --pdf-engine=xelatex   \
 		3.2.7.sensores_dht.md \
 		3.2.8.1.Adafruit_MQTT.md \
 		3.2.8.wifi.md \
-		3.2.9.0.MQTT_micropython.md
+		3.2.9.0.MQTT_micropython.md \
+		3.2.10.I2C.md \
+		3.2.11.BME280.md \
+		3.2.12.Oled.md \
+		3.2.13.P.CO2.local.md		
 
 4:
 	pandoc --pdf-engine=xelatex       \
