@@ -70,8 +70,8 @@ pandoc --pdf-engine=xelatex   \
 		3.2.5.Ficheros_main_boot.md \
 		3.2.6.ADC.md \
 		3.2.7.sensores_dht.md \
+		3.2.8.0.wifi.md \
 		3.2.8.1.Adafruit_MQTT.md \
-		3.2.8.wifi.md \
 		3.2.9.0.MQTT_micropython.md \
 		3.2.10.I2C.md \
 		3.2.11.BME280.md \
