@@ -8,6 +8,7 @@ Licencia CC by SA @javacasm
 
 Marzo 2022
 
+
 ## [https://bit.ly/IOTadv](https://bit.ly/IOTadv)
 
 Aprender a desarrollar proyectos IOT basados en protocolos estándar como MQTT utilizando herramientas modernas como Node-Red y lenguajes actuales como Python
